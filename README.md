@@ -14,6 +14,19 @@ Bilingual: Spanish and English (Oral and Written)
 
 ---
 
+## 💻 Projects
+
+### Budget Tracker App
+Java Swing app to track income & expenses, categorize transactions, and save/load data.  
+[Repository](https://github.com/Ivette-Sanchez/BudgetTrackerProjectJava) | [Live Demo](https://youtu.be/cNwv7K02Yfg)
+
+
+### Portfolio Website
+Showcases coding projects and artwork, built with HTML/CSS/JavaScript/PHP. 
+[Repository](https://github.com/Ivette-Sanchez/PersonalWebsiteFinalProject) | [Live Demo](https://youtu.be/rgptE1eu0QM)
+
+---
+
 ## 🎨 Interests
 Mixed media art | Learning new skills | Photography 
 <p>
