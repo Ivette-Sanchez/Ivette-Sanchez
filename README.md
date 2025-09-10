@@ -11,7 +11,7 @@ Im a senior at Fordham University majoring in Computer Science and minoring in A
 ## 🎨 Interests
 Mixed media art | Learning new skills | Photography 
 
-<img src="images/git1.jpg" alt="Art 1" width="200" height="300"/> <img src="images/git2.jpg" alt="Art 2" width="200" height="300"/> <img src="images/git4.heic" alt="Art 3" width="200" height="300"/>
+<img src="images/git1.jpg" alt="Art 1" width="200" height="300"/> <img src="images/git2.jpg" alt="Art 2" width="200" height="300"/> <img src="images/git4.jpg" alt="Art 3" width="200" height="300"/>
 
 
 ---
