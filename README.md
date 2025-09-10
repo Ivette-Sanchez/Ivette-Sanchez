@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi! I'm Ivette 👋
 
-<!--
-**Ivette-Sanchez/Ivette-Sanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im a senior at Fordham University majoring in Computer Science and minoring in ANthropology.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on further developing my SQL abilities in my Information and Data Management class.
+- 🌱 I’m currently learning and taking a class in Data Communication and Networks.
+- 😄 Pronouns: She/Her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎨 Interests
+Mixed media art | Learning new skills | Photography 
+
+---
