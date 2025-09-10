@@ -1,6 +1,6 @@
 ## Hi! I'm Ivette 👋
 
-Im a senior at Fordham University majoring in Computer Science and minoring in ANthropology.
+Im a senior at Fordham University majoring in Computer Science and minoring in Anthropology.
 
 - 🔭 I’m currently working on further developing my SQL abilities in my Information and Data Management class.
 - 🌱 I’m currently learning and taking a class in Data Communication and Networks.
@@ -11,8 +11,6 @@ Im a senior at Fordham University majoring in Computer Science and minoring in A
 ## 🛠 Skills & Technologies
 C++ | Java | SQL | Web Development --> HTML/CSS/JavaScript/ PHP
 Bilingual: Spanish and English (Oral and Written)
-
----
 
 ---
 
