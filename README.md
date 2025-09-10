@@ -17,11 +17,10 @@ Bilingual: Spanish and English (Oral and Written)
 ## 🎨 Interests
 Mixed media art | Learning new skills | Photography 
 <p>
-  <img src="images/git1.jpg" alt="Art 1" style="width:180px;height:200px;object-fit:cover;"/>
-  <img src="images/git2.jpg" alt="Art 2" style="width:180px;height:200px;object-fit:cover;"/>
-  <img src="images/git4.jpg" alt="Art 3" style="width:180px;height:200px;object-fit:cover;"/>
-  <img src="images/git5.JPG" alt="Art 4" style="width:180px;height:200px;object-fit:cover;"/>
-  <img src="images/git6.jpg" alt="Art 5" style="width:180px;height:200px;object-fit:cover;"/>
+  <img src="images/git1.jpg" alt="Art 1" style="width:185px;height:200px;object-fit:cover;"/>
+  <img src="images/git2.jpg" alt="Art 2" style="width:185px;height:200px;object-fit:cover;"/>
+  <img src="images/git4.jpg" alt="Art 3" style="width:185px;height:200px;object-fit:cover;"/>
+  <img src="images/git5.JPG" alt="Art 4" style="width:185px;height:200px;object-fit:cover;"/>
 </p>
 
 ---
