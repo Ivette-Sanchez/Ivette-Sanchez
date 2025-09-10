@@ -8,6 +8,14 @@ Im a senior at Fordham University majoring in Computer Science and minoring in A
 
 ---
 
+## 🛠 Skills & Technologies
+C++ | Java | SQL | Web Development --> HTML/CSS/JavaScript/ PHP
+Bilingual: Spanish and English (Oral and Written)
+
+---
+
+---
+
 ## 🎨 Interests
 Mixed media art | Learning new skills | Photography 
 <p>
@@ -17,4 +25,5 @@ Mixed media art | Learning new skills | Photography
   <img src="images/git5.JPG" alt="Art 4" style="width:180px;height:200px;object-fit:cover;"/>
   <img src="images/git6.jpg" alt="Art 5" style="width:180px;height:200px;object-fit:cover;"/>
 </p>
+
 ---
